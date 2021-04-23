@@ -1,7 +1,3 @@
-# PatientBatchLoader
-
-This application was originally generated using JHipster 4.13.0, you can find documentation and help at [http://www.jhipster.tech/documentation-archive/v4.13.0](http://www.jhipster.tech/documentation-archive/v4.13.0). After generation, I stripped out many of the features that were unnecessary for the Spring Batch demo. 
-
 ## Dependencies
 
 ### Java
